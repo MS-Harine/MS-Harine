@@ -10,7 +10,7 @@ HANDONG GLOBAL UNIVERSITY
 <details>
   <summary><strong>Journals</strong></summary>
 
-  * Signal Alignment for Cross-datasets in P300 Brain-Computer Interfaces. *Under Review*
+  * Signal Alignment for Cross-datasets in P300 Brain-Computer Interfaces. *In Progress*
   * Gwon, Daeun, et al. "Review of public motor imagery and execution datasets in brain-computer interfaces." *Frontiers in Human Neuroscience* 17 (2023): 1134869.
   * Park, Sunghwan, et al. "A comparison of brain segmentation methods Freesurfer and AQUA for detecting Alzheimer's disease using MRI." *ASIA-PACIFIC PSYCHIATRY*. Vol. 13. 111 RIVER ST, HOBOKEN 07030-5774, NJ USA: WILEY, 2021.
   * Song, Minseok, et al. "Diagnostic classification and biomarker identification of Alzheimer’s disease with random forest algorithm." *Brain Sciences* 11.4 (2021): 453.
